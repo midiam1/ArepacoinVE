@@ -4,8 +4,8 @@
 # Script para instalar ArepaCoin
 clear # Limpio pues no soy cochino
 # Actualizo todo
-sudo apt-et update -y
-sudo apt-get upgrade -y
+ sudo apt-get update -y
+ sudo apt-get upgrade -y
 
 # Las librerías y soporte para QT
 
