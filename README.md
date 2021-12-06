@@ -3,11 +3,6 @@ Mis cosas sobre ArepaCoin
 
 ![logo](https://repository-images.githubusercontent.com/435081850/c38070cb-4615-4f3e-992a-9172890971dd)
 
-<style type="text/css">
-p {
-	text-align: justify;
-}
-</style>
 <p><strong>Arepacoin</strong> nace el 25 de septiembre del 2016 con el fin de convertirse en una moneda referente de Venezuela en el mundo, con una emisión total de 60.000.000 de Arepas y un PoS del 3% de interés anual.
 </p>
 <p> Está desarrollada con el algoritmo <strong>Scrypt PoW-PoS</strong>, que le permite ser una moneda robusta con un crecimiento de forma orgánica y con gran solidez.</p>
