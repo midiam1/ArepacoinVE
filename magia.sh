@@ -30,3 +30,16 @@ sudo apt-get install git # Por si no está instalado
 git clone https://github.com/ProjectArepa/Arepacoin
 
 cd Arepacoin
+
+compileDaemonWallet() {
+    echo "Compile Arepa Daemon Wallet"
+    cd src
+    make -j$(nproc) -f makefile.unix
+    strip arepacoind
+}
+
+compileQtWallet() {
+    echo "Compile Arepa Qt Wallet"
+    qmake "USE_QRCODE=1"
+    make -j$(nproc)
+}
