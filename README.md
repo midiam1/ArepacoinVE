@@ -30,5 +30,5 @@ Pagina Oficial (https://arepacoinve.info/)</p>
   git clone https://github.com/midiam1/Arepacoin</p>
 <p>cd Arepacoin</p>
 <p> ## Para Ubuntu 16.04 y 18.04.</p>
-<p> ./Compile.sh
+<p> ./magia.sh
   ./Arepacoin-qt</p>

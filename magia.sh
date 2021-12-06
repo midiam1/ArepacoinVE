@@ -25,21 +25,18 @@ clear # Limpio pues no soy cochino
  sudo apt-get -y update
  sudo apt-get -y install libdb4.8-dev libdb4.8++-dev
 
-# Descargo los binarios de ArepaCoin
-sudo apt-get install git # Por si no está instalado
-git clone https://github.com/ProjectArepa/Arepacoin
+ clear # Limpio la pantalla porque soy limpio
 
-cd Arepacoin
+# Comienzo a compilar
+  cd Arepacoin
 
-compileDaemonWallet() {
-    echo "Compile Arepa Daemon Wallet"
+    echo "Compilandoe Monedero Arepacoin demonio"
     cd src
     make -j$(nproc) -f makefile.unix
     strip arepacoind
-}
 
-compileQtWallet() {
-    echo "Compile Arepa Qt Wallet"
-    qmake "USE_QRCODE=1"
-    make -j$(nproc)
-}
+
+#compileQtWallet() {
+#    echo "Compile Arepa Qt Wallet"
+#    qmake "USE_QRCODE=1"
+#    make -j$(nproc)
