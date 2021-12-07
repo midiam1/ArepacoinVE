@@ -8,15 +8,70 @@ Mis cosas sobre ArepaCoin
 <p> Está desarrollada con el algoritmo <strong>Scrypt PoW-PoS</strong>, que le permite ser una moneda robusta con un crecimiento de forma orgánica y con gran solidez.</p>
 <p>Puerto RPC: 8586 y Puerto P2P: 8585.</p>
 <p>Los bloques minables mediante PoW tienen una recompensa generada de la siguiente manera:</p>
-<ul>
-  <li>Bloques 1 hasta 10.000 tiene una recompensa de 325 Arepas.</li>
-  <li>Bloques 10.001 hasta 250.000 tienen una recompensa de 50 Arepas.</li>
-  <li>Bloques 25.001 hasta 500.000 tendran una recompensa de 25 Arepas.</li>
-  <li>Bloques 50.001 hasta 700.000 tendran una recompensa de 12 Arepas.</li>
-  <li>Bloques 70.001 hasta 1.000.000 tendran una recompensa de 6 Arepas.</li>
-  <li>Bloques 1.000.001 hasta 2.000.000 tendran una recompensa de 3 Arepas.</li>
-  <li>Bloques 2.000.001 en adelante tendran una recompensa de 1 Arepa.</li>
-</ul>
+<table border="0" cellpadding="2" cellspacing="2">
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">1</td>
+    <td>hasta</td>
+    <td align="right">10.000</td>
+    <td>tiene una recompensa de 325 Arepas</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">10.001</td>
+    <td>hasta</td>
+    <td align="right">250.000</td>
+    <td>tienen una recompensa de 50 Arepas</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">250.001</td>
+    <td>hasta</td>
+    <td align="right">500.000</td>
+    <td>tienen una recompensa de 25 Arepas</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">500.001</td>
+    <td>hasta</td>
+    <td align="right">700.000</td>
+    <td>tienen una recompensa de 12 Arepas</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">700.001</td>
+    <td>hasta</td>
+    <td align="right">1.000.000</td>
+    <td>tienen una recompensa de 6 Arepas</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">1.000.001</td>
+    <td>hasta</td>
+    <td align="right">2.000.000</td>
+    <td>tienen una recompensa de 3 Arepas</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Bloques</li>
+    </ul></td>
+    <td align="right">2.000.001</td>
+    <td colspan="2">en adelante</td>
+    <td>tienen una recompensa de 1 Arepa</td>
+  </tr>
+</table>
 <p>LINKS
 Pagina Oficial (https://arepacoinve.info/)</p>
 <p>Foro Oficial (https://bitcointalk.org/index.php?topic=2931570)</p>
@@ -29,6 +84,6 @@ Pagina Oficial (https://arepacoinve.info/)</p>
 <p>sudo apt-get install git</p>
 <p>git clone https://github.com/midiam1/Arepacoin</p>
 <p>cd Arepacoin</p>
-<p> ## Para Ubuntu 16.04 y 18.04.</p>
-<p> ./magia.sh
-  ./Arepacoin-qt</p>
+<p> ## Para Ubuntu 18.04.</p>
+<p> ./magia.sh</p>
+<p>./Arepacoin-qt</p>
