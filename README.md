@@ -10,7 +10,7 @@ Mis cosas sobre ArepaCoin
 <p>Los bloques minables mediante PoW tienen una recompensa generada de la siguiente manera:</p>
 <table border="0" cellpadding="2" cellspacing="2">
   <tr>
-    <td align="left" valign="middle"><p>Bloques</p></td>
+    <td valign="bottom"><p>Bloques</p></td>
     <td align="right" valign="middle">1</td>
     <td valign="middle">hasta</td>
     <td align="right" valign="middle">10.000</td>
