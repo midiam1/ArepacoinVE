@@ -30,13 +30,13 @@ clear # Limpio pues no soy cochino
 # Comienzo a compilar
   cd Arepacoin
 
-    echo "Compilandoe Monedero Arepacoin demonio"
+    echo "Compilando Demonio Monedero Arepacoin"
     cd src
     make -j$(nproc) -f makefile.unix
     strip arepacoind
 
 
-#compileQtWallet() {
-#    echo "Compile Arepa Qt Wallet"
-#    qmake "USE_QRCODE=1"
-#    make -j$(nproc)
+    echo "Compilando Monedero Arepacoin  Qt"
+
+    qmake "USE_QRCODE=1"
+    make -j$(nproc)

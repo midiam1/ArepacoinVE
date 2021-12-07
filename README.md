@@ -9,13 +9,13 @@ Mis cosas sobre ArepaCoin
 <p>Puerto RPC: 8586 y Puerto P2P: 8585.</p>
 <p>Los bloques minables mediante PoW tienen una recompensa generada de la siguiente manera:</p>
 <ul>
-  <li>Bloques 1 hasta 10000 tiene una recompensa de 325 Arepas.</li>
-  <li>Bloques 10001 hasta 250000 tienen una recompensa de 50 Arepas.</li>
-  <li>Bloques 250001 hasta 500000 tendran una recompensa de 25 Arepas.</li>
-  <li>Bloques 500001 hasta 700000 tendran una recompensa de 12 Arepas.</li>
-  <li>Bloques 700001 hasta 1000000 tendran una recompensa de 6 Arepas.</li>
-  <li>Bloques 1000001 hasta 2000000 tendran una recompensa de 3 Arepas.</li>
-  <li>Bloques 2000001 en adelante tendran una recompensa de 1 Arepa.</li>
+  <li>Bloques 1 hasta 10.000 tiene una recompensa de 325 Arepas.</li>
+  <li>Bloques 10.001 hasta 250.000 tienen una recompensa de 50 Arepas.</li>
+  <li>Bloques 25.001 hasta 500.000 tendran una recompensa de 25 Arepas.</li>
+  <li>Bloques 50.001 hasta 700.000 tendran una recompensa de 12 Arepas.</li>
+  <li>Bloques 70.001 hasta 1.000.000 tendran una recompensa de 6 Arepas.</li>
+  <li>Bloques 1.000.001 hasta 2.000.000 tendran una recompensa de 3 Arepas.</li>
+  <li>Bloques 2.000.001 en adelante tendran una recompensa de 1 Arepa.</li>
 </ul>
 <p>LINKS
 Pagina Oficial (https://arepacoinve.info/)</p>
