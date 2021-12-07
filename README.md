@@ -26,8 +26,8 @@ Pagina Oficial (https://arepacoinve.info/)</p>
 <p>Escribir en la terminal los siguientes comandos:</p>
 <p>sudo apt-get update</p>
 <p>sudo apt-get upgrade</p>
-<p>sudo apt-get install git
-  git clone https://github.com/midiam1/Arepacoin</p>
+<p>sudo apt-get install git</p>
+<p>git clone https://github.com/midiam1/Arepacoin</p>
 <p>cd Arepacoin</p>
 <p> ## Para Ubuntu 16.04 y 18.04.</p>
 <p> ./magia.sh
