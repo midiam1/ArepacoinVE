@@ -28,13 +28,14 @@ clear # Limpio pues no soy cochino
  clear # Limpio la pantalla porque soy limpio
 
 # Comienzo a compilar
-  cd Arepacoin
 
     echo "Compilando Demonio Monedero Arepacoin"
     cd src
     make -j$(nproc) -f makefile.unix
     strip arepacoind
+    cd ..
 
+ clear # Limpio la pantalla porque soy limpio
 
     echo "Compilando Monedero Arepacoin  Qt"
 

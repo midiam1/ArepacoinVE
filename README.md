@@ -73,10 +73,10 @@ Mis cosas sobre ArepaCoin
   </tr>
 </table>
 <p>LINKS
-Pagina Oficial (https://arepacoinve.info/)</p>
-<p>Foro Oficial (https://bitcointalk.org/index.php?topic=2931570)</p>
-<p>Twitter Arepacoin (https://twitter.com/arepacoinve)</p>
-<p>Grupo Telegram Arepacoin (https://t.me/ArepacoinVE_ES)</p>
+Pagina Oficial <a href="https://arepacoinve.info" title="Ir a ArepaCoinVe" target="_blank">ArepaCoinVe</a> (https://arepacoinve.info/)</p>
+<p>Foro Oficial en <a href="https://bitcointalk.org/index.php?topic=2931570" target="_blank">BitCoinTalk</a> (https://bitcointalk.org/index.php?topic=2931570)</p>
+<p>Twitter <a href="https://twitter.com/arepacoinve" target="_blank">Arepacoin</a> (https://twitter.com/arepacoinve)</p>
+<p>Grupo Telegram <a href="https://t.me/ArepacoinVE_ES" target="_blank">Arepacoin</a> (https://t.me/ArepacoinVE_ES)</p>
 <p>Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:</p>
 <p>Escribir en la terminal los siguientes comandos:</p>
 <p>sudo apt-get update</p>
