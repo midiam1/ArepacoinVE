@@ -72,11 +72,33 @@ Mis cosas sobre ArepaCoin
     <td valign="middle">tienen una recompensa de 1 Arepa</td>
   </tr>
 </table>
-<p>LINKS
-Pagina Oficial <a href="https://arepacoinve.info" title="Ir a ArepaCoinVe" target="_blank">ArepaCoinVe</a> (https://arepacoinve.info/)</p>
-<p>Foro Oficial en <a href="https://bitcointalk.org/index.php?topic=2931570" target="_blank">BitCoinTalk</a> (https://bitcointalk.org/index.php?topic=2931570)</p>
-<p>Twitter <a href="https://twitter.com/arepacoinve" target="_blank">Arepacoin</a> (https://twitter.com/arepacoinve)</p>
-<p>Grupo Telegram <a href="https://t.me/ArepacoinVE_ES" target="_blank">Arepacoin</a> (https://t.me/ArepacoinVE_ES)</p>
+<table width="100%" border="0" cellpadding="2" cellspacing="2">
+  <tr>
+    <td><strong>Enlaces</strong></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Pagina Oficial</td>
+    <td><a href="https://arepacoinve.info" title="Ir a ArepaCoinVe" target="_blank">ArepaCoinVe</a> (https://arepacoinve.info/)</td>
+  </tr>
+  <tr>
+    <td>Foro Oficial</td>
+    <td><a href="https://bitcointalk.org/index.php?topic=2931570" target="_blank">BitCoinTalk</a> (https://bitcointalk.org/index.php?topic=2931570)</td>
+  </tr>
+  <tr>
+    <td>Twitter</td>
+    <td><a href="https://twitter.com/arepacoinve" target="_blank">Arepacoin</a> (https://twitter.com/arepacoinve)</td>
+  </tr>
+  <tr>
+    <td>Telegram</td>
+    <td><a href="https://t.me/ArepacoinVE_ES" target="_blank">Arepacoin</a> (https://t.me/ArepacoinVE_ES)</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
 <p>Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:</p>
 <p>Escribir en la terminal los siguientes comandos:</p>
 <p>sudo apt-get update</p>
