@@ -31,6 +31,7 @@ clear # Limpio pues no soy cochino
 
     echo "Compilando Demonio Monedero Arepacoin"
     cd src
+    sudo chmod 775 leveldb/*
     make -j$(nproc) -f makefile.unix
     strip arepacoind
     cd ..
