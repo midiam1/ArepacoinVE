@@ -97,6 +97,10 @@ Mis cosas sobre ArepaCoin
     <td>Telegram</td>
     <td><a href="https://t.me/ArepacoinVE_ES" target="_blank">Arepacoin</a> (https://t.me/ArepacoinVE_ES)</td>
   </tr>
+  <tr>
+    <td>Correo</td>
+    <td>arepacoinve@gmail.com</td>
+  </tr>
 </table>
 <p>&nbsp;</p>
 <p>Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:</p>
