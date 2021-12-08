@@ -110,6 +110,7 @@ Mis cosas sobre ArepaCoin
 <p>sudo apt-get install git</p>
 <p>git clone https://github.com/midiam1/Arepacoin</p>
 <p>cd Arepacoin</p>
+<p>sudo chmod 775 magia.sh</p>
 <p> ## Para Ubuntu 18.04.</p>
 <p> ./magia.sh</p>
 <p>./Arepacoin-qt</p>
