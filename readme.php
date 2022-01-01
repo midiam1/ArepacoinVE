@@ -15,9 +15,9 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Arepacoin</strong> nace el 25 de septiembre del 2016 con el fin de convertirse en una moneda referente de Venezuela en el mundo, con una emisiÛn total de 60.000.000 de Arepas y un PoS del 3% de interÈs anual.
+<p><strong>Arepacoin</strong> nace el 25 de septiembre del 2016 con el fin de convertirse en una moneda referente de Venezuela en el mundo, con una emisi√≥n total de 60.000.000 de Arepas y un PoS del 3% de inter√©s anual.
 </p>
-<p> Est· desarrollada con el algoritmo <strong>Scrypt PoW-PoS</strong>, que le permite ser una moneda robusta con un crecimiento de forma org·nica y con gran solidez.</p>
+<p> Est√° desarrollada con el algoritmo <strong>Scrypt PoW-PoS</strong>, que le permite ser una moneda robusta con un crecimiento de forma org√°nica y con gran solidez.</p>
 <p>Puerto RPC: 8586 y Puerto P2P: 8585.</p>
 <p>Los bloques minables mediante PoW tienen una recompensa generada de la siguiente manera:</p>
 <table border="0" cellpadding="2" cellspacing="2">
@@ -115,7 +115,7 @@
   </tr>
 </table>
 <p>&nbsp;</p>
-<p>Procedimiento para compilar la billeter· virtual en Ubuntu GNU/Linux:</p>
+<p>Procedimiento para compilar la billeter√° virtual en Ubuntu GNU/Linux:</p>
 <p>Escribir en la terminal los siguientes comandos:</p>
 <p>sudo apt-get update</p>
 <p>sudo apt-get upgrade</p>
