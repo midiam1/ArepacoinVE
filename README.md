@@ -3,8 +3,7 @@
     <td rowspan="3" align="center" valign="top"><img src="src/qt/res/images/header.png" width="140" height="140" /></td>
     <td><p><h1># ArepacoinVE</h1><br />
       Mis cosas sobre ArepaCoin
-        
-    !</h1></td>
+	</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
