@@ -85,9 +85,13 @@ public:
         assert(hashGenesisBlock == uint256("0x000002cac270a01e29300abaaeb7d412ca00fa7f43f0d547a57b9ff9c85d95e8"));
         assert(genesis.hashMerkleRoot == uint256("0xd4082f34d13c3e5c4ad7057cd6548bc44274a6234e168157bbb760545aec22e1"));
 
-        vSeeds.push_back(CDNSSeedData("node.arepacripto.org", "node.arepacripto.org"));
-        vSeeds.push_back(CDNSSeedData("node2.arepacripto.org", "node2.arepacripto.org"));
-        vSeeds.push_back(CDNSSeedData("node3.arepacripto.org", "node3.arepacripto.org"));
+        vSeeds.push_back(CDNSSeedData("95.111.226.45", "95.111.226.45")); // Alemania
+        vSeeds.push_back(CDNSSeedData("131.153.57.198", "131.153.57.198")); // Estados Unidos
+        vSeeds.push_back(CDNSSeedData("161.97.113.213", "161.97.113.213")); // Alemania
+        vSeeds.push_back(CDNSSeedData("45.80.91.141", "45.80.91.141")); // Israel
+        vSeeds.push_back(CDNSSeedData("46.151.159.53", "46.151.159.53")); // Rusia
+        vSeeds.push_back(CDNSSeedData("5.153.182.51", "5.153.182.51")); // Ucrania
+        vSeeds.push_back(CDNSSeedData("190.201.27.112", "190.201.27.112")); // Venezuela
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 23);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 85);
