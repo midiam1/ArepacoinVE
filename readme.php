@@ -80,7 +80,19 @@
         <td valign="middle">Recompensa de 1 Arepa</td>
       </tr>
     </table>
-    <table width="84%" border="0" cellpadding="2" cellspacing="2">
+    <p>&nbsp;</p>
+    <p>Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:</p>
+    <p>Escribir en la terminal los siguientes comandos:</p>
+    <p>sudo apt-get update</p>
+    <p>sudo apt-get upgrade</p>
+    <p>sudo apt-get install git</p>
+    <p>git clone https://github.com/midiam1/Arepacoin</p>
+    <p>cd Arepacoin</p>
+    <p>sudo chmod 775 magia.sh</p>
+    <p> ## Para Ubuntu 18.04.</p>
+    <p> ./magia.sh</p>
+    <p>./Arepacoin-qt</p></td>
+    <td valign="top"><table width="84%" border="0" cellpadding="2" cellspacing="2">
       <tr>
         <td><strong>Enlaces</strong></td>
         <td>&nbsp;</td>
@@ -109,19 +121,6 @@
         <td>Correo</td>
         <td>arepacoinve@gmail.com</td>
       </tr>
-    </table>
-    <p>&nbsp;</p>
-    <p>Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:</p>
-    <p>Escribir en la terminal los siguientes comandos:</p>
-    <p>sudo apt-get update</p>
-    <p>sudo apt-get upgrade</p>
-    <p>sudo apt-get install git</p>
-    <p>git clone https://github.com/midiam1/Arepacoin</p>
-    <p>cd Arepacoin</p>
-    <p>sudo chmod 775 magia.sh</p>
-    <p> ## Para Ubuntu 18.04.</p>
-    <p> ./magia.sh</p>
-    <p>./Arepacoin-qt</p></td>
-    <td>&nbsp;</td>
+    </table></td>
   </tr>
 </table>
