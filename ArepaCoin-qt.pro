@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = ArepaCoinVE-qt # Cambio el nombre del ejecutable
+TARGET = ArepaCoinVE-qt # Cambio el nombre del ejecutable 01012020
 VERSION = 1.2.0.0
 INCLUDEPATH += src src/json src/qt
 QT += network

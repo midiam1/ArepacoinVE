@@ -3,7 +3,12 @@
  *
  * W.J. van der Laan 2011-2012
  * The Bitcoin Developers 2011-2012
+ * 
+ * Proyectos Himmeros 012022
+ * #sistemas que funcionan
+ *
  */
+
 
 #include <QApplication>
 
@@ -82,7 +87,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     nWeight(0)
 {
     resize(850+95, 550);
-    setWindowTitle(tr("ArepaCoin") + " - " + tr("Wallet"));
+    setWindowTitle(tr("ArepaCoinVE") + " - " + tr("Wallet")); // Cambio de nombre en la ventana del monedero
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
