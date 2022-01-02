@@ -1,3 +1,5 @@
+<html>
+
 <table width="100%" border="0" align="center" cellpadding="4" cellspacing="4">
   <tr>
     <td rowspan="2" align="center" valign="top"><img src="src/qt/res/images/header.png" width="140" height="140" /></td>
@@ -124,3 +126,5 @@
     </table></td>
   </tr>
 </table>
+
+</html>
