@@ -107,7 +107,7 @@ Copyright © 2022 ArepaCoinVE</string>
        <property name="text">
         <string>
         
-        &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;ArepaCoinVE es un fork de ArepaCoin, para mejorar la divulgación, distribución y uso de la moneda Venezolana.&lt;/p&gt;&lt;hr/&gt;&lt;p align=&quot;justify&quot;&gt;Distributed under the MIT/X11 software license, see the accompanying file COPYING or &amp;lt;a href=&amp;quot;http://www.opensource.org/licenses/mit-license.php&amp;quot;&amp;gt;http://www.opensource.org/licenses/mit-license.php&amp;lt;/a&amp;gt;.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&amp;lt;a href=&amp;quot;https://www.openssl.org/&amp;quot;&amp;gt;https://www.openssl.org/&amp;lt;/a&amp;gt;) and cryptographic software written by Eric Young (&amp;lt;a href=&amp;quot;mailto:eay@cryptsoft.com&amp;quot;&amp;gt;eay@cryptsoft.com&amp;lt;/a&amp;gt;) and UPnP software written by Thomas Bernard.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+        &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;ArepaCoinVE es un fork de &lt;a href=&quot;arepacoinve.info&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;ArepaCoin&lt;/span&gt;&lt;/a&gt;, para mejorar la divulgación, distribución y uso de la moneda Venezolana.&lt;/p&gt;&lt;hr/&gt;&lt;p align=&quot;justify&quot;&gt;Distribución solo como prueba, se usa bajo su propio riesgo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
 
         
         </string>
