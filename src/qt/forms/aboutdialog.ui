@@ -92,8 +92,7 @@
        </property>
        <property name="text">
         <string>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The ArepaCoin developers</string>
+Copyright © 2022 ArepaCoinVE</string>
        </property>
        <property name="textInteractionFlags">
         <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -107,7 +106,7 @@ Copyright © 2014 The ArepaCoin developers</string>
        </property>
        <property name="text">
         <string>
-This is experimental software.
+ArepaCoinVE es un fork de ArepaCoin, para mejorar la divulgación, distribución y uso de la moneda Venezolana.
 
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
 

@@ -462,7 +462,7 @@ void HelpMessageBox::showOrPrint()
 
 void SetBlackThemeQSS(QApplication& app)
 {
-    app.setStyleSheet("QWidget        { background: rgb(255,255,255); }"
+    app.setStyleSheet("QWidget        { background: rgb(255,255,222); }" // Fondo del formulario
                       "QFrame         { border: none; }"
                       "QComboBox      { color: rgb(28,28,28); }"
                       "QComboBox QAbstractItemView::item { color: rgb(28,28,28); }"
