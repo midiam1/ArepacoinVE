@@ -1,6 +1,6 @@
 <table width="100%" border="0" align="center" cellpadding="4" cellspacing="4">
   <tr>
-    <td width="50%" rowspan="2" align="center" valign="top"><img src="src/qt/res/images/header.png" width="140" height="140" /></td>
+    <td rowspan="2" align="center" valign="top"><img src="src/qt/res/images/header.png" width="140" height="140" /></td>
     <td width="50%" nowrap="nowrap"><p><h1># ArepacoinVE</h1><br />
       Mis cosas sobre ArepaCoin
 	</td>
