@@ -93,6 +93,8 @@ public:
         vSeeds.push_back(CDNSSeedData("5.153.182.51", "5.153.182.51")); // Ucrania
         vSeeds.push_back(CDNSSeedData("190.201.27.112", "190.201.27.112")); // Venezuela
 
+        vSeeds.push_back(CDNSSeedData("reinapepiada.arepacoin.xyz", "reinapepiada.arepacoin.xyz")); // Nodo Explorador
+
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 23);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 85);
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1, 151);
